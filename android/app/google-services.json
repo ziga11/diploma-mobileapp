@@ -1,0 +1,48 @@
+{
+    "project_info": {
+        "project_number": "398900189385",
+        "project_id": "diploma-app-fb1ea",
+        "storage_bucket": "diploma-app-fb1ea.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:398900189385:android:c055b1da34fcf911805518",
+                "android_client_info": {
+                    "package_name": "com.example.diplomaapp"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyAtoBfNmpIvc9msmzSckFV7_iTP5QquCuA"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        },
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:398900189385:android:a3ecde6b20847788805518",
+                "android_client_info": {
+                    "package_name": "com.example.diplomaapp"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyAtoBfNmpIvc9msmzSckFV7_iTP5QquCuA"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}

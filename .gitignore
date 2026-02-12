@@ -1,0 +1,55 @@
+# --- Neovim / Vim / CLI ---
+[._]sw[a-p]
+[._]s[a-v][a-z]
+*.un~
+Session.vim
+.netrwhist
+undo/
+tags
+.history
+.DS_Store
+
+# --- Flutter / Dart ---
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+bin/cache/
+.fvm/
+
+# --- Android (ADB/CLI workflow) ---
+.gradle/
+local.properties
+*.keystore
+*.jks
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# --- iOS ---
+*.xcworkspace
+*.xcscheme
+*.xscheduleresults
+/ios/Flutter/.last_build_id
+/ios/Pods/
+
+# --- Web / Node ---
+node_modules/
+.web_assets/
+
+# --- Sensitive & Secrets ---
+.env
+ios/Runner/GoogleService-Info.plist
+android/app/google-services.json
+
+# --- Unnecessary IDE/Bloat ---
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.atom/
+.svn/
+migrate_working_dir/

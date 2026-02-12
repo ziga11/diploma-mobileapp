@@ -1,0 +1,278 @@
+{
+	"job_listings": [
+		{
+			"company": "AlpsTech Solutions",
+			"location": "Ljubljana, Slovenia",
+			"industry": "Technology",
+			"salary": "€45,000 - €65,000",
+			"date": "4.8.2025",
+			"en": {
+				"title": "Senior Software Developer",
+				"description": "Lead development of cutting-edge web applications using modern frameworks. Work with international clients and mentor junior developers.",
+				"requirements": "5+ years experience, React/Vue.js, Node.js, PostgreSQL",
+				"location": "Ljubljana / Remote",
+				"employment_type": "Full-time"
+			},
+			"si": {
+				"title": "Razvijalec programske opreme",
+				"description": "Razvijanje inovativnih mobilnih aplikacij za Android in iOS platforme. Sodelovanje z mednarodnimi strankami.",
+				"requirements": "3+ leta izkušenj, Kotlin, Swift, REST API",
+				"location": "Ljubljana",
+				"employment_type": "Polni delovni čas"
+			},
+			"bs": {
+				"title": "UI/UX Dizajner",
+				"description": "Kreiranje korisničkih interfejsa i dizajniranje korisničkog iskustva za web i mobilne aplikacije. Rad sa međunarodnim timom.",
+				"requirements": "Figma, Adobe Creative Suite, 2+ godine iskustva",
+				"location": "Ljubljana / Udaljen rad",
+				"employment_type": "Puno radno vrijeme"
+			}
+		},
+		{
+			"company": "GreenEnergy Slovenija",
+			"location": "Maribor, Slovenia",
+			"industry": "Renewable Energy",
+			"salary": "€50,000 - €70,000",
+			"date": "28.7.2025",
+			"en": {
+				"title": "Project Manager - Solar Energy",
+				"description": "Manage large-scale solar energy projects across Slovenia and the Balkans. Coordinate with international suppliers and local authorities.",
+				"requirements": "PMP certification preferred, 4+ years project management, renewable energy background",
+				"location": "Maribor / Remote",
+				"employment_type": "Full-time"
+			},
+			"si": {
+				"title": "Inženir obnovljivih virov energije",
+				"description": "Načrtovanje in implementacija sistemov sončnih elektrarn. Tehnična podpora strankam in nadzor nad projekti.",
+				"requirements": "Univerzitetna izobrazba elektrotehnike, 3+ leta izkušenj",
+				"location": "Maribor",
+				"employment_type": "Polni delovni čas"
+			}
+		},
+		{
+			"company": "FinanceLink",
+			"location": "Ljubljana, Slovenia",
+			"industry": "Financial Technology",
+			"salary": "€42,000 - €60,000",
+			"date": "4.8.2025",
+			"en": {
+				"title": "Financial Analyst",
+				"description": "Analyze market trends and provide investment recommendations for our fintech platform. Work with cryptocurrency and traditional financial instruments.",
+				"requirements": "CFA or similar certification, 3+ years experience in financial analysis",
+				"location": "Ljubljana",
+				"employment_type": "Full-time"
+			},
+			"bs": {
+				"title": "Finansijski analitičar",
+				"description": "Analiza tržišnih trendova i pružanje investicijskih preporuka za našu fintech platformu. Rad sa kriptovalutama i tradicionalnim finansijskim instrumentima.",
+				"requirements": "CFA ili slična sertifikacija, 3+ godine iskustva u finansijskoj analizi",
+				"location": "Ljubljana / Udaljen rad",
+				"employment_type": "Puno radno vrijeme"
+			},
+			"si": {
+				"title": "Razvijalec blockchain tehnologij",
+				"language": "si",
+				"description": "Razvoj decentraliziranih aplikacij in pametnih pogodb. Delo z najnovejšimi blockchain tehnologijami.",
+				"requirements": "Solidity, Web3.js, Ethereum, 2+ leta izkušenj",
+				"location": "Ljubljana / Delo od doma",
+				"employment_type": "Polni delovni čas"
+			}
+		},
+		{
+			"company": "MediaPro Ljubljana",
+			"location": "Ljubljana, Slovenia",
+			"industry": "Digital Marketing",
+			"salary": "€30,000 - €45,000",
+			"date": "4.8.2025",
+			"en": {
+				"title": "Digital Marketing Specialist",
+				"language": "en",
+				"description": "Create and execute digital marketing campaigns for international clients. Manage social media, SEO, and paid advertising strategies.",
+				"requirements": "Google Ads & Analytics certified, 2+ years experience, fluent English",
+				"location": "Ljubljana / Remote",
+				"employment_type": "Full-time"
+			},
+			"si": {
+				"title": "Specialist za družabne medije",
+				"language": "si",
+				"description": "Upravljanje družabnih medijev za lokalne in mednarodne stranke. Ustvarjanje vsebin in analiza rezultatov kampanj.",
+				"requirements": "2+ leta izkušenj, poznavanje Facebook/Instagram/LinkedIn oglaševal",
+				"location": "Ljubljana",
+				"employment_type": "Polni delovni čas"
+			}
+		},
+		{
+			"company": "LogistikaPlus",
+			"location": "Celje, Slovenia",
+			"industry": "Logistics & Transportation",
+			"salary": "€32,000 - €42,000",
+			"date": "28.7.2025",
+			"en": {
+				"title": "Logistics Coordinator",
+				"language": "en",
+				"description": "Coordinate international shipments across Europe and the Balkans. Optimize supply chain processes and manage vendor relationships.",
+				"requirements": "2+ years logistics experience, fluent English and German preferred",
+				"location": "Celje",
+				"employment_type": "Full-time"
+			},
+			"bs": {
+				"title": "Koordinator logistike",
+				"language": "bs",
+				"description": "Koordinacija međunarodnih pošiljaka kroz Evropu i Balkan. Optimizacija procesa opskrbnog lanca i upravljanje odnosima sa dobavljačima.",
+				"requirements": "2+ godine iskustva u logistici, tečno engleski i njemački poželjno",
+				"location": "Celje / Udaljen rad",
+				"employment_type": "Puno radno vrijeme"
+			},
+			"si": {
+				"title": "Voznik tovornega vozila",
+				"language": "si",
+				"description": "Prevoz blaga po Sloveniji in sosednjih državah. Redni prevozi za stalne stranke.",
+				"requirements": "Veljavno vozniško dovoljenje C+E, digitalna kartica, 1+ leto izkušenj",
+				"location": "Celje (z občasnimi potovanji)",
+				"employment_type": "Polni delovni čas"
+			}
+		},
+		{
+			"company": "HealthCare Innovation",
+			"location": "Ljubljana, Slovenia",
+			"industry": "Healthcare Technology",
+			"salary": "€48,000 - €65,000",
+			"date": "28.7.2025",
+			"en": {
+				"title": "Medical Data Analyst",
+				"language": "en",
+				"description": "Analyze healthcare data to improve patient outcomes and operational efficiency. Work with AI/ML models for predictive healthcare analytics.",
+				"requirements": "Medical background or health informatics degree, Python/R, SQL",
+				"location": "Ljubljana / Remote",
+				"employment_type": "Full-time"
+			},
+			"si": {
+				"title": "Medicinska sestra/medicinski tehnik",
+				"language": "si",
+				"description": "Delo v inovativnem zdravstvenem centru z najnovejšo tehnologijo. Skrb za paciente in sodelovanje z mednarodnim zdravstvenim timom.",
+				"requirements": "Izobrazba za medicinsko sestro/tehnika, licence, 1+ leto izkušenj",
+				"location": "Ljubljana",
+				"employment_type": "Polni delovni čas"
+			}
+		},
+		{
+			"company": "EduTech Slovenia",
+			"location": "Ljubljana, Slovenia",
+			"industry": "Education Technology",
+			"salary": "€35,000 - €50,000",
+			"date": "4.8.2025",
+			"en": {
+				"title": "Learning Experience Designer",
+				"language": "en",
+				"description": "Design engaging online learning experiences for K-12 and adult education. Create interactive content and assess learning outcomes.",
+				"requirements": "Education degree, experience with LMS platforms, instructional design background",
+				"location": "Ljubljana / Remote",
+				"employment_type": "Full-time"
+			},
+			"si": {
+				"title": "Nastavnik/instruktor",
+				"language": "si",
+				"description": "Poučevanje programiranja in digitalnih veščin za otroke in odrasle. Razvoj učnih načrtov in vodenje delavnic.",
+				"requirements": "Pedagoška izobrazba, poznavanje programiranja, izkušnje z delom z otroki",
+				"location": "Ljubljana",
+				"employment_type": "Polni delovni čas"
+			},
+			"bs": {
+				"title": "Koordinator programa",
+				"language": "bs",
+				"description": "Koordinacija obrazovnih programa za odrasle iz regije Balkana. Razvoj partnerstva sa obrazovnim institucijama.",
+				"requirements": "Iskustvo u obrazovanju, poznavanje jezika regije, organizacijske vještine",
+				"location": "Ljubljana / Udaljen rad",
+				"employment_type": "Puno radno vrijeme"
+			}
+		},
+		{
+			"company": "TourismSlovenia+",
+			"location": "Bled, Slovenia",
+			"industry": "Tourism & Hospitality",
+			"salary": "€30,000 - €40,000",
+			"date": "28.7.2025",
+			"en": {
+				"title": "Tourism Experience Manager",
+				"language": "en",
+				"description": "Develop unique tourism experiences showcasing Slovenia's natural beauty. Manage relationships with local guides and accommodation providers.",
+				"requirements": "Tourism degree, 3+ years experience, fluent in English and Slovene",
+				"location": "Bled",
+				"employment_type": "Full-time"
+			},
+			"si": {
+				"title": "Turistični vodnik",
+				"language": "si",
+				"description": "Vodenje tujih turistov po slovenskih naravnih in kulturnih znamenitostih. Predstavljanje slovenske kulture in zgodovine.",
+				"requirements": "Licenca za turističnega vodnika, znanje tujih jezikov, komunikacijske veščine",
+				"location": "Bled / različne lokacije po Sloveniji",
+				"employment_type": "Pogodbeno delo"
+			},
+			"bs": {
+				"title": "Menadžer recepcije",
+				"language": "bs",
+				"description": "Upravljanje recepcije hotela i koordinacija sa gostima iz regije Balkana. Pružanje informacija o turističkim atrakcijama.",
+				"requirements": "Iskustvo u hotelijerstvu, znanje jezika, komunikacijske vještine",
+				"location": "Bled",
+				"employment_type": "Puno radno vrijeme"
+			}
+		},
+		{
+			"company": "AgroTech Slovenija",
+			"location": "Murska Sobota, Slovenia",
+			"industry": "Agricultural Technology",
+			"salary": "€40,000 - €55,000",
+			"date": "28.7.2025",
+			"en": {
+				"title": "Agricultural Engineer - Precision Farming",
+				"description": "Implement precision farming solutions using IoT sensors and drone technology. Support farmers in optimizing crop yields and reducing environmental impact.",
+				"requirements": "Agricultural engineering degree, knowledge of IoT/sensors, 2+ years experience",
+				"location": "Murska Sobota / Remote",
+				"employment_type": "Full-time"
+			},
+			"si": {
+				"title": "Kmetijski svetovalec",
+				"description": "Svetovanje kmetom pri uporabi novih tehnologij in sustainable kmetijskih praksah. Terensko delo in izobraževanje kmetov.",
+				"requirements": "Izobrazba s področja kmetijstva, izkušnje s svetovanjem, vozniško dovoljenje",
+				"location": "Murska Sobota (terensko delo)",
+				"employment_type": "Polni delovni čas"
+			}
+		},
+		{
+			"company": "StartupHub Ljubljana",
+			"location": "Ljubljana, Slovenia",
+			"industry": "Business Incubation",
+			"salary": "€45,000 - €60,000",
+			"date": "28.7.2025",
+			"en": {
+				"title": "Startup Mentor",
+				"description": "Mentor early-stage startups in technology, business development, and fundraising. Connect entrepreneurs with investors and resources.",
+				"requirements": "Entrepreneurial experience, business degree, networking skills, fluent English",
+				"location": "Ljubljana / Remote",
+				"employment_type": "Full-time"
+			},
+			"si": {
+				"title": "Poslovni analitik",
+				"description": "Analiza poslovnih modelov startup podjetij in priprava poročil za investitorje. Podpora pri pripravi poslovnih načrtov.",
+				"requirements": "Poslovna izobrazba, analitične veščine, poznavanje startup ekosistema",
+				"location": "Ljubljana",
+				"employment_type": "Polni delovni čas"
+			},
+			"bs": {
+				"title": "Koordinator za region Balkana",
+				"description": "Koordinacija programa za startupe iz regije Balkana. Organizacija događaja i povezivanje sa investitorima iz regije.",
+				"requirements": "Iskustvo sa startupovima, poznavanje jezika regije, organizacijske vještine",
+				"location": "Ljubljana / Udaljen rad",
+				"employment_type": "Puno radno vrijeme"
+			}
+		}
+	],
+	"metadata": {
+		"total_companies": 10,
+		"total_positions": 25,
+		"languages": ["en", "si", "bs"],
+		"locations": ["Ljubljana", "Maribor", "Celje", "Bled", "Murska Sobota"],
+		"currency": "EUR",
+		"generated_date": "2025-08-04"
+	}
+}

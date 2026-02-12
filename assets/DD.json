@@ -1,0 +1,33 @@
+{
+	"BiH": [
+      "pogodba 2x kopija - podpisana, original",
+      "kopija potnega lista 2x kopija - overjena, kvalitetna",
+      "potrdilo o prijavi v evidenco brezposelnih na zavodu v Bosni in Hercegovini",
+      "dokazilo o izobrazbi overjeno, z žigom Apostille, v latinici",
+      "pooblastilo oddaja in preverba vloge za izdajo delovnega dovoljenja",
+      "uradni podpis za kartico podpis v kvadrat",
+      "fotografija za osebne dokumente - dimezije 3,5 x 4,5 cm",
+      "potrdilo o nekaznovanosti prevod v slovenščino s strani sodnega tolmača in overitev, mlajše od 3 mesecev"
+	],
+  "SRB": [
+      "pogodba podpisana, original",
+      "kopija potnega lista 2x - overjena, kvalitetna",
+      "potrdilo o prijavi v evidenco brezposelnih na zavodu v Srbiji",
+      "pooblastilo oddaja in preverba vloge za izdajo delovnega dovoljenja",
+      "uradni podpis za kartico podpis v kvadrat",
+      "fotografija za osebne dokumente - dimenzije 3,5 x 4,5 cm",
+      "potrdilo o nekaznovanosti prevod v slovenščino s strani sodnega tolmača in overitev, mlajše od 3 mesecev",
+      "dokazilo o izobrazbi overjeno z žigom Apostille, v latinici ali prevedeno v slovenščino"
+	],
+  "MKD": [
+      "2x podpisana pogodba - prevedena",
+      "kvalitetna kopija potnega lista 2x - overjena, prevedeno",
+      "potrdilo o prijavi v evidenco brezposelnih na zavodu v MKD prevedeno",
+      "potrdilo, da ni v kazenski evidenci, izdano s strani policije mlajše od 3 mesecev, prevedeno",
+      "potrdilo, da ni v kazenskem postopku ali pravnomočno obsojen, izdano s strani policije mlajše od 3 mesecev, prevedeno",
+      "dokazilo o izobrazbi overjeno, z žigom Apostille",
+      "pooblastilo za oddajo in preverbo vloge za izdajo delovnega dovoljenja",
+      "uradni podpis za kartico (podpis v kvadrat)",
+      "fotografija za osebne dokumente - dimenzije 3,5 x 4,5 cm"
+	]
+}
