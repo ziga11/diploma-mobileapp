@@ -1,55 +1,50 @@
-# --- Neovim / Vim / CLI ---
-[._]sw[a-p]
-[._]s[a-v][a-z]
-*.un~
-Session.vim
-.netrwhist
-undo/
-tags
-.history
+# --- Top Priority (The "Shit" you wanted gone) ---
+node_modules/
+.dart_tool/
+build/
+.history/
 .DS_Store
 
 # --- Flutter / Dart ---
-.dart_tool/
+.packages
 .flutter-plugins
 .flutter-plugins-dependencies
 .pub-cache/
 .pub/
-build/
-bin/cache/
+# If you use fvm
 .fvm/
 
-# --- Android (ADB/CLI workflow) ---
+# --- Windows (Flutter specific) ---
+windows/flutter/ephemeral/
+windows/flutter/generated_plugin_registrant.h
+windows/flutter/generated_plugin_registrant.cc
+windows/flutter/generated_plugins.cmake
+/windows/runner/*.exe
+/windows/runner/*.dll
+/windows/runner/*.pdb
+
+# --- Android ---
 .gradle/
 local.properties
-*.keystore
-*.jks
 /android/app/debug
 /android/app/profile
 /android/app/release
 
-# --- iOS ---
+# --- iOS/macOS ---
 *.xcworkspace
 *.xcscheme
-*.xscheduleresults
 /ios/Flutter/.last_build_id
 /ios/Pods/
+DerivedData/
 
-# --- Web / Node ---
-node_modules/
-.web_assets/
-
-# --- Sensitive & Secrets ---
-.env
-ios/Runner/GoogleService-Info.plist
-android/app/google-services.json
-
-# --- Unnecessary IDE/Bloat ---
+# --- IDEs / Editors ---
 .idea/
 .vscode/
 *.iml
-*.ipr
-*.iws
-.atom/
-.svn/
-migrate_working_dir/
+*.swp
+*.un~
+
+# --- Secrets ---
+.env
+ios/Runner/GoogleService-Info.plist
+android/app/google-services.json
