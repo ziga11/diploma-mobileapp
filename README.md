@@ -1,16 +1,18 @@
-# karieraapp
+# Recruitment Mobile Application (Frontend)
 
-A new Flutter project.
+A cross-platform Flutter application designed to guide candidates through the recruitment and onboarding process.
 
-## Getting Started
+## 📋 Overview
+This app provides a transparent, centralized hub for job seekers. Candidates can view their application status, see their specific job obligations, and manage documentation (contracts, IDs, payslips) directly from their mobile device.
 
-This project is a starting point for a Flutter application.
+## 🛠 Tech Stack
+* **Framework:** Flutter
+* **Language:** Dart
+* **Architecture:** Clean Architecture (Presentation, Application, Domain, Data layers)
+* **Push Notifications:** Firebase Cloud Messaging (FCM)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Key Features
+* **Multilingual Engine:** Full localization for Slovenian, English, and Bosnian, using `ValueListenable` for instant, non-blocking language swaps.
+* **Document Capture & Upload:** Native integration with the camera and file picker for uploading required documentation.
+* **Passwordless Authentication:** Uses email-based tokens and App Links for a secure, low-friction login experience.
+* **Interactive Request System:** A chat-like interface for submitting specific requests (e.g., tax forms) with attachment support.
