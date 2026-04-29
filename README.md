@@ -27,4 +27,7 @@ This app provides a transparent, centralized hub for job seekers. Candidates can
 ![ER Diagram](/assets/readme/er_other.svg)
 
 ### Demo
-https://github.com/user-attachments/assets/66bd86f7-831a-4ba9-9f6e-2d709383e386
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/66bd86f7-831a-4ba9-9f6e-2d709383e386" width="100%" controls muted>
+  </video>
+</div>
