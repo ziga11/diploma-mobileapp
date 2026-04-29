@@ -17,16 +17,7 @@ This app provides a transparent, centralized hub for job seekers. Candidates can
 * **Passwordless Authentication:** Uses email-based tokens and App Links for a secure, low-friction login experience.
 * **Interactive Request System:** A chat-like interface for submitting specific requests (e.g., tax forms) with attachment support.
 
-## Previews
-### ER Diagrams
-**Messages**
-![ER Diagram](/assets/readme/er_message.svg)
-**Obligations**
-![ER Diagram](/assets/readme/er_obligation.svg)
-**Other**
-![ER Diagram](/assets/readme/er_other.svg)
-
-### Demo
+## Demo
 <div align="center">
   <video src="https://github.com/user-attachments/assets/66bd86f7-831a-4ba9-9f6e-2d709383e386" width="100%" controls muted>
   </video>
