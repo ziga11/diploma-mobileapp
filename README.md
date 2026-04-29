@@ -16,3 +16,15 @@ This app provides a transparent, centralized hub for job seekers. Candidates can
 * **Document Capture & Upload:** Native integration with the camera and file picker for uploading required documentation.
 * **Passwordless Authentication:** Uses email-based tokens and App Links for a secure, low-friction login experience.
 * **Interactive Request System:** A chat-like interface for submitting specific requests (e.g., tax forms) with attachment support.
+
+## Previews
+### ER Diagrams
+**Messages**
+![ER Diagram](/assets/readme/er_message.svg)
+**Obligations**
+![ER Diagram](/assets/readme/er_obligation.svg)
+**Other**
+![ER Diagram](/assets/readme/er_other.svg)
+
+### Mobile Demo
+![Demo](public/assets/example.mp4)
